@@ -73,7 +73,7 @@ based on Precision — the most critical metric in a loan approval context.
 
 ## 🚀 How to Run
 1. Clone the repo
-   git clone https://github.com/RoHaN-0053/creditwise-loan-prediction
+   git clone https://github.com/RoHaN-0053/Loan-Approval-Project
 2. Install dependencies
    pip install -r requirements.txt
 3. Open the notebook
