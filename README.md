@@ -53,16 +53,7 @@ more reliably.
 
 ---
 
-## 📊 Key Results
-| Model | Precision | Recall | F1 Score | Accuracy |
-|---|---|---|---|---|
-| Logistic Regression | -- | -- | -- | -- |
-| KNN | -- | -- | -- | -- |
-| Naive Bayes | -- | -- | -- | -- |
 
-*(Fill in after re-running the notebook)*
-
----
 
 ## 🛠️ Tech Stack
 - Python
